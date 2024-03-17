@@ -6,3 +6,6 @@
 var a = 1 + 2;
 var c = a;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
